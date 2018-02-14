@@ -1,0 +1,24 @@
+//M2T_Orona
+//WEB-151
+//INTRODUCTION
+//Question 1
+X *=2;
+//Question 2
+Variables allow the user to store or hold data.
+//Question 3
+Let myName = ‘Sloan’;
+//Question 4
+true false
+//Question 5
+When you insert the value of a variable into a string.
+//Question 6
+Console.log(‘Hello world’);
+//Question 7
+Console.log(‘Hello World’.length)
+//Question 8
+‘codeacademy’.toUpperCase();
+//Question 9 
+Const food = ‘chicken’;
+Food = ‘sushi’;
+//Question 10
+Math.random()
